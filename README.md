@@ -18,5 +18,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaugusto9101&layout=compact)](https://github.com/daniloaugusto9101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloaugusto9101)](https://github.com/daniloaugusto9101)
 
