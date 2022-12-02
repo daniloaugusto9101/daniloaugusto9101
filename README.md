@@ -18,6 +18,11 @@
 <br>
 
 
+# 📊 My Contribution Graph:
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=daniloaugusto9101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
