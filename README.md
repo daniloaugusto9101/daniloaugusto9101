@@ -1,8 +1,5 @@
-![banner](banner2.gif)
-
-
 <p align="center">
-  <img width="460" height="300" src="banner2.gif">
+  <img width="600" src="banner2.gif">
 </p>
 
 # 💫 About Me:
