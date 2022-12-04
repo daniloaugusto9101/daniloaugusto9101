@@ -2,8 +2,6 @@
   <img width="600" src="banner2.gif">
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 <br>
 
 
