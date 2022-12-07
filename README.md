@@ -4,7 +4,7 @@
 
 <br>
 
-# Olá, seja Bem-vindo! 
+# Olá, seja bem-vindo! 
 - Eu me chamo Danilo, tenho 31 anos
 - Este é meu portfólio: https://daniloaugusto9101.github.io/portfolio 
 - Atualmente estudo TypeScritp e React
