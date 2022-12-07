@@ -4,7 +4,11 @@
 
 <br>
 
-
+# Olá, seja Bem-vindo! 
+- Eu me chamo Danilo, tenho 31 anos
+- Este é meu portfólio: https://daniloaugusto9101.github.io/portfolio 
+- Atualmente estudo TypeScritp e React
+- Desenvolvedor Fron-end 
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniloaugusto9101) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniloaugusto9101) 
