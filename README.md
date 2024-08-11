@@ -1,5 +1,5 @@
 # ☕ Olá, seja bem-vindo! 
-Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimento Full Stack pela PUC-Minas, e vejo a programação como a capacidade de transformar ideias em soluções práticas. Cada desafio que enfrento é uma oportunidade para aprender, crescer e criar algo impactante. Programar é minha forma de resolver problemas, buscando sempre soluções inteligentes e eficientes.
+Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimento Full Stack pela PUC-Minas, para mim a programação é a capacidade de transformar ideias em soluções práticas. Cada desafio que enfrento é uma oportunidade para aprender, crescer e criar algo impactante. Programar é minha forma de resolver problemas, buscando sempre soluções inteligentes e eficientes.
 
 Tenho experiência em criar aplicações utilizando React JS e e Next.js, além de expertise com Tailwind CSS e Bootstrap para a estilização de interfaces responsivas.
 
