@@ -9,7 +9,7 @@ No back-end, utilizo Node.js para desenvolver aplicações eficientes e escaláv
 Com CI/CD e práticas de DevOps, utilizo para facilitar a automação de processos e a entrega contínua de software. Minhas habilidades em UX/UI Design permitem que eu crie interfaces intuitivas e agradáveis, e tenho noções de SEO para ajudar na otimização de sites para mecanismos de busca.
 
 
-# 🌐 Socials:
+# 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniloaugusto9101) 
 
 <br>
