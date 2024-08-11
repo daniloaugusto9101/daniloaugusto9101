@@ -1,7 +1,12 @@
 # ☕ Olá, seja bem-vindo! 
-- Eu me chamo Danilo, tenho 33 anos
-- Sou Desenvolvedor Full Stack
-- Meu portfólio: https://daniloaugusto9101.github.io/portfolio 
+
+Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimento Full Stack pela PUC-Minas, e vejo a programação como a capacidade de transformar ideias em soluções práticas. Cada desafio que enfrento é uma oportunidade para aprender, crescer e criar algo impactante. Programar é minha forma de resolver problemas, buscando sempre soluções inteligentes e eficientes.
+
+Tenho experiência em criar aplicações utilizando React JS e e Next.js, além de expertise com Tailwind CSS e Bootstrap para a estilização de interfaces responsivas.
+
+No back-end, utilizo Node.js para desenvolver aplicações eficientes e escaláveis, com foco na criação e gestão de APIs RESTful que facilitam a comunicação entre diferentes partes do sistema e a integração com bancos de dados. Além disso, utilizo ferramentas de teste, garantindo a qualidade e a confiabilidade dos projetos que desenvolvo.
+
+Com CI/CD e práticas de DevOps, utilizo para facilitar a automação de processos e a entrega contínua de software. Minhas habilidades em UX/UI Design permitem que eu crie interfaces intuitivas e agradáveis, e tenho noções de SEO para ajudar na otimização de sites para mecanismos de busca.
 
 
 # 🌐 Socials:
