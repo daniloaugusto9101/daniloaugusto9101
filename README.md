@@ -1,9 +1,3 @@
-<p align="center">
-  <img width="600" src="banner2.gif">
-</p>
-
-<br>
-
 # ☕ Olá, seja bem-vindo! 
 - Eu me chamo Danilo, tenho 33 anos
 - Sou Desenvolvedor Full Stack
