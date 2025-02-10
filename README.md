@@ -7,7 +7,6 @@ Apaixonado por tecnologia, busco sempre aprimorar minhas habilidades e acompanha
 Hard Skills
 
 ✔️ Node.js: desenvolvimento de APIs escaláveis e eficientes.
-
 ✔️ React: construção de interfaces dinâmicas e componentes reutilizáveis.
 
 ✔️ Next.js: desenvolvimento full-stack com rotas dinâmicas, SSR/SSG e otimização de performance.
