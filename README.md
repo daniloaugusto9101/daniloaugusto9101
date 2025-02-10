@@ -5,10 +5,15 @@ Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimen
 Apaixonado por tecnologia, busco sempre aprimorar minhas habilidades e acompanhar as melhores práticas do mercado, trabalho bem em equipe, sou comunicativo e facilidade para aprender novas tecnologias.
 
 Hard Skills
+
 ✔️ Node.js: desenvolvimento de APIs escaláveis e eficientes.
+
 ✔️ React: construção de interfaces dinâmicas e componentes reutilizáveis.
+
 ✔️ Next.js: desenvolvimento full-stack com rotas dinâmicas, SSR/SSG e otimização de performance.
+
 ✔️ Metodologias ágeis: experiência com Scrum e Kanban.
+
 ✔️ Desenvolvimento de Interfaces: uso de Bootstrap, SASS e Tailwind CSS para interfaces responsivas.
 ✔️ WordPress: desenvolvimento e personalização de sites.
 ✔️ Git: controle de versão com Git, GitHub e Bitbucket.
