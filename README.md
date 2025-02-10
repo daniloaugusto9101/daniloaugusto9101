@@ -7,6 +7,7 @@ Apaixonado por tecnologia, busco sempre aprimorar minhas habilidades e acompanha
 Hard Skills
 
 ✔️ Node.js: desenvolvimento de APIs escaláveis e eficientes.
+
 ✔️ React: construção de interfaces dinâmicas e componentes reutilizáveis.
 
 ✔️ Next.js: desenvolvimento full-stack com rotas dinâmicas, SSR/SSG e otimização de performance.
@@ -14,16 +15,24 @@ Hard Skills
 ✔️ Metodologias ágeis: experiência com Scrum e Kanban.
 
 ✔️ Desenvolvimento de Interfaces: uso de Bootstrap, SASS e Tailwind CSS para interfaces responsivas.
+
 ✔️ WordPress: desenvolvimento e personalização de sites.
+
 ✔️ Git: controle de versão com Git, GitHub e Bitbucket.
+
 ✔️ CI/CD: automação de integração, testes e entrega contínua.
+
 ✔️ Totvs Fluig: desenvolvimento BPM, WCM, Workflow e integração com SGP e Protheus.
+
 ✔️ UX/UI Design: aplicação de princípios de design para melhor experiência do usuário.
 
 
 Soft Skills
+
 ✔️ Capacidade de Aprender Continuamente: manter-se atualizado com as novas tecnologias e metodologias de desenvolvimento
+
 ✔️ Comunicação Eficaz: ser capaz de explicar conceitos técnicos para não-técnicos, compartilhar progresso com a equipe
+
 ✔️ Gerenciamento de Tempo: priorizar tarefas e gerenciar o tempo de forma eficaz para cumprir prazos e entregar projetos de qualidade
 
 </br>
