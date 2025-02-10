@@ -1,11 +1,26 @@
 # ☕ Olá, seja bem-vindo! 
-Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimento Full Stack pela PUC-Minas, para mim a programação é a capacidade de transformar ideias em soluções práticas. Cada desafio que enfrento é uma oportunidade para aprender, crescer e criar algo impactante. Programar é minha forma de resolver problemas, buscando sempre soluções inteligentes e eficientes.
 
-Tenho experiência em criar aplicações utilizando React JS e e Next.js, além de expertise com Tailwind CSS e Bootstrap para a estilização de interfaces responsivas.
+Eu me chamo Danilo, sou Desenvolvedor Full Stack, Pós-Graduado em Desenvolvimento Full Stack pela PUC-Minas, tenho conhecimento em criar aplicações com React.js, Node.js, Next.js, Wordpress e Totvs Fluig.
 
-No back-end, utilizo Node.js para desenvolver aplicações eficientes e escaláveis, com foco na criação e gestão de APIs RESTful que facilitam a comunicação entre diferentes partes do sistema e a integração com bancos de dados. Além disso, utilizo ferramentas de teste, garantindo a qualidade e a confiabilidade dos projetos que desenvolvo.
+Apaixonado por tecnologia, busco sempre aprimorar minhas habilidades e acompanhar as melhores práticas do mercado, trabalho bem em equipe, sou comunicativo e facilidade para aprender novas tecnologias.
 
-Com CI/CD e práticas de DevOps, utilizo para facilitar a automação de processos e a entrega contínua de software. Minhas habilidades em UX/UI Design permitem que eu crie interfaces intuitivas e agradáveis, e tenho noções de SEO para ajudar na otimização de sites para mecanismos de busca.
+Hard Skills
+✔️ Node.js: desenvolvimento de APIs escaláveis e eficientes.
+✔️ React: construção de interfaces dinâmicas e componentes reutilizáveis.
+✔️ Next.js: desenvolvimento full-stack com rotas dinâmicas, SSR/SSG e otimização de performance.
+✔️ Metodologias ágeis: experiência com Scrum e Kanban.
+✔️ Desenvolvimento de Interfaces: uso de Bootstrap, SASS e Tailwind CSS para interfaces responsivas.
+✔️ WordPress: desenvolvimento e personalização de sites.
+✔️ Git: controle de versão com Git, GitHub e Bitbucket.
+✔️ CI/CD: automação de integração, testes e entrega contínua.
+✔️ Totvs Fluig: desenvolvimento BPM, WCM, Workflow e integração com SGP e Protheus.
+✔️ UX/UI Design: aplicação de princípios de design para melhor experiência do usuário.
+
+
+Soft Skills
+✔️ Capacidade de Aprender Continuamente: manter-se atualizado com as novas tecnologias e metodologias de desenvolvimento
+✔️ Comunicação Eficaz: ser capaz de explicar conceitos técnicos para não-técnicos, compartilhar progresso com a equipe
+✔️ Gerenciamento de Tempo: priorizar tarefas e gerenciar o tempo de forma eficaz para cumprir prazos e entregar projetos de qualidade
 
 </br>
 
